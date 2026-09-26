@@ -1,0 +1,2 @@
+with open(".gitignore", "w") as f:
+    f.write(".env\n__pycache__/\n*.pyc\n")
